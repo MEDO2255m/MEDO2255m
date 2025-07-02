@@ -18,10 +18,10 @@
 
 
 ### Connect with Me :
+[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345)
 
-[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345)
+[![Telegram](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/medoebrahim255)
 
-[![Telegram](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/medoebrahim255)
 
 
 <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
