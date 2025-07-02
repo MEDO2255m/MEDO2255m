@@ -18,52 +18,10 @@
 
 
 ### Connect with Me :
-<!-- Font Awesome CDN -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 
-<style>
-  .social-links {
-    display: flex;
-    gap: 15px;
-    margin-top: 20px;
-  }
+[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345)
 
-  .social-links a {
-    display: flex;
-    align-items: center;
-    background-color: #0077B5;
-    color: white;
-    padding: 10px 15px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: 0.3s ease;
-  }
-
-  .social-links a.telegram {
-    background-color: #0088cc;
-  }
-
-  .social-links a:hover {
-    transform: scale(1.05);
-    opacity: 0.9;
-  }
-
-  .social-links i {
-    margin-right: 8px;
-  }
-</style>
-
-<div class="social-links">
-  <a href="https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345" target="_blank">
-    <i class="fab fa-linkedin"></i> LinkedIn
-  </a>
-
-  <a href="https://t.me/medoebrahim255" class="telegram" target="_blank">
-    <i class="fab fa-telegram"></i> Telegram
-  </a>
-</div>
-
+[![Telegram](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/medoebrahim255)
 
 
 
