@@ -18,9 +18,23 @@
 
 
 ### Connect with Me :
-[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345)
+<!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
 
-[![Telegram](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/medoebrahim255)
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345" target="_blank" style="text-decoration: none;">
+    <span style="background-color: #0077B5; color: white; padding: 10px 15px; border-radius: 5px; display: inline-flex; align-items: center;">
+      <i class="fab fa-linkedin" style="margin-right: 8px;"></i> LinkedIn
+    </span>
+  </a>
+
+  <a href="https://t.me/medoebrahim255" target="_blank" style="text-decoration: none;">
+    <span style="background-color: #0088cc; color: white; padding: 10px 15px; border-radius: 5px; display: inline-flex; align-items: center;">
+      <i class="fab fa-telegram" style="margin-right: 8px;"></i> Telegram
+    </span>
+  </a>
+</div>
+
 
 
 
