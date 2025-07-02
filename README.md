@@ -19,9 +19,16 @@
 
 ### Connect with Me :
 
-[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345)
+<a href="https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align:middle;"/> Mohamed Ebrahim
+</a>
 
-[![Telegram](https://img.shields.io/badge/-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/medoebrahim255)
+<br>
+
+<a href="https://t.me/medoebrahim255" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" style="vertical-align:middle;"/> Mohamed Ebrahim
+</a>
+
 
 
 
