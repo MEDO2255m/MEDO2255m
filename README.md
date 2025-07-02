@@ -19,15 +19,57 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align:middle;"/> Mohamed Ebrahim
-</a>
+<!-- Font Awesome للنسخة الاحتياطية لو حبيت تضيف أيقونات تانية -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 
-<br>
+<style>
+  .social-links {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+  }
 
-<a href="https://t.me/medoebrahim255" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" style="vertical-align:middle;"/> Mohamed Ebrahim
-</a>
+  .social-links a {
+    display: flex;
+    align-items: center;
+    background-color: #0077B5;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    transition: 0.3s ease;
+  }
+
+  .social-links a.telegram {
+    background-color: #0088cc;
+  }
+
+  .social-links a:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+  }
+
+  .social-links img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+  }
+</style>
+
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/mohamed-ebrahim-aa62b8345" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+    LinkedIn
+  </a>
+
+  <a href="https://t.me/medoebrahim255" class="telegram" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
+    Telegram
+  </a>
+</div>
+
 
 
 
